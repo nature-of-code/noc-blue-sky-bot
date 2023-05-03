@@ -1,0 +1,30 @@
+{
+  "name": "noc-blue-sky-bot",
+  "version": "0.0.1",
+  "description": "An example Blue Sky bot for the Nature of Code book",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nature-of-code/noc-blue-sky-bot.git"
+  },
+  "type": "module",
+  "keywords": [
+    "bot",
+    "blue sky",
+    "atproto",
+    "nature of code"
+  ],
+  "author": "Daniel Shiffman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nature-of-code/noc-blue-sky-bot/issues"
+  },
+  "homepage": "https://github.com/nature-of-code/noc-blue-sky-bot#readme",
+  "dependencies": {
+    "@atproto/api": "^0.2.11",
+    "dotenv": "^16.0.3"
+  }
+}
