@@ -25,6 +25,8 @@
   "homepage": "https://github.com/nature-of-code/noc-blue-sky-bot#readme",
   "dependencies": {
     "@atproto/api": "^0.2.11",
+    "buffer": "^6.0.3",
+    "canvas": "^2.11.2",
     "dotenv": "^16.0.3"
   }
 }
